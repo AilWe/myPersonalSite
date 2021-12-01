@@ -1,0 +1,19 @@
+{
+  "name": "mypersonalsite",
+  "version": "1.0.0",
+  "description": "server of my personal site",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ailin Wei",
+  "license": "ISC"
+}

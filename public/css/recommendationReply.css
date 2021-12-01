@@ -1,0 +1,30 @@
+body{
+    background-color: #89B5AF;
+    color: #204051
+}
+.recommend-btn{
+
+    background-color: #96C7C1;
+    border: 0;
+    border-radius: 56px;
+    color: #204051;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    outline: 0;
+    padding: 16px 21px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.recommend-btn:hover{
+    background-color: royalblue;
+}
+
